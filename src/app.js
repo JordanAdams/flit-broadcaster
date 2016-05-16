@@ -1,3 +1,4 @@
+import 'babel-polyfill';
 import http from 'http';
 import socketIO from 'socket.io';
 import chunk from 'lodash.chunk';
